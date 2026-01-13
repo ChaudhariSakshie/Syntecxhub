@@ -26,3 +26,5 @@ and performance comparison with Python lists.
 1. Open **Jupyter Notebook**
 2. Navigate to the project folder
 3. Open the file:
+4. andr run cell one by one
+   
